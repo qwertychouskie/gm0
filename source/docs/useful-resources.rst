@@ -32,7 +32,7 @@ General Resources
 
 `Engineering Portfolio Library <https://portfolios.hivemindrobotics.net>`_ --- A library of past award-winning Engineering Portfolios. Created by Polar from FTC 23396 and managed by the community.
 
-`REV Robotics FTC Documentation <https://docs.revrobotics.com/docs/rev-duo>`_ --- Covers REV's hardware and software. `The control system documentation <https://docs.revrobotics.com/duo-control>`_ includes an introductory FTC programming tutorial.
+`REV Robotics FTC Documentation <https://docs.revrobotics.com/docs/duo>`_ --- Covers REV's hardware and software. `The control system documentation <https://docs.revrobotics.com/duo-control>`_ includes an introductory FTC programming tutorial.
 
 `Spectrum's Recommended Reading <https://spectrum3847.org/recommendedreading>`_ --- A list of resources collated by FRC\ |reg| 3847, Spectrum. While these resources are aimed at FRC, many are directly relevant to FTC.
 

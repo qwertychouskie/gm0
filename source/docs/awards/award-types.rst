@@ -78,7 +78,6 @@ There are 7 awards for FTC\ |reg| teams (excluding optional awards). For more in
       - `11115 Gluten Free Skystone <https://docs.google.com/document/d/18laHXP-aKpkPc_QzlaC5b9aeHVzLxlHNPuzaLOYh84Y/edit>`_
       - `1002 Circuit Runners Green Skystone <https://docs.google.com/document/d/1jwoP1ZpFJdSB36ybrIu1igLV8cwLweD767LLgi7pX6Y/edit>`_
       - `9866 VIRUS Skystone <https://drive.google.com/file/d/1hWp07uPvID0qbwyuOulewDEwrAl6lpMA/view>`_
-      - `5143 Xcentrics Skystone <https://docs.google.com/document/d/1HuuHvmBrM-qRmuz3W7KvYm7uiQcRyLXmuo-KRQFgw4E/edit>`_
       - `11528 Bots of Prey Skystone <https://drive.google.com/file/d/1PEFclEL5nApEOcNh-k4O4m94mGgoa35u/view?usp=sharing>`_
       - `9794 Wizards.exe Skystone <https://drive.google.com/file/d/1YS9scvXvqHFiqJL1beXzEUJmslHtX0IS/view?usp=sharing>`_
 

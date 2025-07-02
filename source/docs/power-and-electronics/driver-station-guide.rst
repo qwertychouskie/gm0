@@ -76,7 +76,7 @@ Controllers
 - Xbox 360 Controller for Windows (52A-00004)
 - `Sony DualShock 4 Wireless Controller for PS4 <https://www.amazon.com/dp/B01LWVX2RG>`_\*
 - `Sony DualSense Wireless Controller for PS5 <https://www.amazon.com/dp/B0CQKKHT5J>`_\*
-- `Etpark Wired Controller for PS4 <https://www.revrobotics.com/rev-39-1865/>`_ (REV-39-1865, now discontinued)
+- Etpark Wired Controller for PS4 (REV-39-1865, now discontinued)
 - `REV Robotics USB PS4 Compatible Gamepad <https://www.revrobotics.com/rev-31-2983/>`_ (REV-31-2983)
 - `Quadstick game controller <https://www.quadstick.com/>`_ in Xbox 360 Emulation Mode
 
